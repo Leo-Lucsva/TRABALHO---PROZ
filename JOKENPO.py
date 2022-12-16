@@ -1,3 +1,4 @@
+#fOI USADO NESSE CODIGO : WHILE, (AND E OR)
 from random import choice
 from time import sleep
 
