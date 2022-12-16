@@ -1,3 +1,7 @@
+# FOI USADO NESSE CODIGO NESSE CODIGO, IF, ELIF, ELSE, RANDINT, MATCH CASE, FOR, LISTA (VETOR)
+
+
+
 # Criar um programa de i food, onde a a pessoa vai logar com senha e nome;
 # vai escolher qual lanche vai querer e esse lanche será adicionado a um carrinho 
 # adicionar opção para ver o carrinho
